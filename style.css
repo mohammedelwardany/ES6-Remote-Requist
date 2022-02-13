@@ -1,0 +1,32 @@
+#container {
+    width: auto;
+    height: auto;
+    background-color: rgb(238, 127, 0);
+    padding: 10px;
+    display: block;
+}
+
+.btn-name {
+    width: fit-content;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(179, 255, 0);
+    border-radius: 10px;
+}
+
+.btn-name:hover {
+    background: white;
+}
+
+#title {
+    width: auto;
+    height: auto;
+    background-color: rgb(27, 25, 25);
+    border: 2px solid black;
+    color: white;
+    display: block;
+}
